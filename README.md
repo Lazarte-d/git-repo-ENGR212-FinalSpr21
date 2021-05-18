@@ -9,4 +9,5 @@ Names and Animals
 6. Shamin Mashalkar - Dog
 7. Ashish Khari - Dog
 8. Paul Gabriel Ongtenco - Shark
-9. Bhuvaneshwar Shanil Prasad - Rhino
+9. Bhuvaneshwar Shanil Prasad - Rhino 
+10.Diana Lazarte - Otter
